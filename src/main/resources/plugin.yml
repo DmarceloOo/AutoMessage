@@ -1,0 +1,10 @@
+name: AutoMessage
+version: '${project.version}'
+main: me.marcelooo.automessage.AutoMessage
+api-version: 1.19
+authors: [ marceloOo ]
+description: Customizable messages through the config of the plugin will be sent in-game
+website: www.github.com/TEmarceloOo
+
+commands:
+  automessage:
