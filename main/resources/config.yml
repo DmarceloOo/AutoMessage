@@ -1,0 +1,21 @@
+settings:
+  delay: 20
+messages:
+  # To use RGB Hex Colours you can use this site, it's really easy to use. https://rgb.birdflop.com
+  - "&#42fdfdT&#54fceah&#66fad8i&#78f9c5s&#8af7b2I&#9cf6a0s&#adf58dA&#bff37aT&#d1f267e&#e3f055s&#f5ef42t 1"
+  - "&#42fdfdT&#54fceah&#66fad8i&#78f9c5s&#8af7b2I&#9cf6a0s&#adf58dA&#bff37aT&#d1f267e&#e3f055s&#f5ef42t 2"
+  - "&#42fdfdT&#54fceah&#66fad8i&#78f9c5s&#8af7b2I&#9cf6a0s&#adf58dA&#bff37aT&#d1f267e&#e3f055s&#f5ef42t 3"
+  - "&#42fdfdT&#54fceah&#66fad8i&#78f9c5s&#8af7b2I&#9cf6a0s&#adf58dA&#bff37aT&#d1f267e&#e3f055s&#f5ef42t 4"
+  - "&#42fdfdT&#54fceah&#66fad8i&#78f9c5s&#8af7b2I&#9cf6a0s&#adf58dA&#bff37aT&#d1f267e&#e3f055s&#f5ef42t 5"
+
+prefix: "&8[&r&lAM&8] "
+
+sendMessagesInOrder: true
+messageSound: true
+
+
+#You need to always do this: sound name in CAPITALS  e.g. ENTITY_PLAYER_LEVELUP
+sound: 'ENTITY_PLAYER_LEVELUP'
+
+# last update - 02/06/2024
+# join my support discord server - https://discord.gg/5T9bFQC8HR
